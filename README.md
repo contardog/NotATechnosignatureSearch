@@ -12,6 +12,6 @@ TO DO:
 * Upload scripts for cross-matching and data grabbing to reproduce
 * Upload scripts / code for the training of the 8-folds.
 * Make a better README
-* Columns names in the fat table...
+* Columns names in the table...
 
   
