@@ -8,7 +8,7 @@ Notebook contains code to reproduce figures and part of the pipeline for the ide
 
 CSV files contains either Gaia DR3 source id, 2MASS ID, ra and dec for the 53 objects (53candidates_small.csv), or all the columns obtained when cross-matching Gaia DR3, 2MASS, AllWISE, UnWISE + the outputs of the 8-folds models and other masks processed (53candidates_allcol.csv). 
 
-
+*Update*: I've added a notebook to obtain a set of candidates computed according to IR-deficit (which shouldn't happen); this augment the set of candidates to 94. There might be some caveats. Take with pinch of salt?
 
 TO DO: 
 * Upload intermediate data-products (? if doable.. the full unwise_merge file is 23Gb...)
